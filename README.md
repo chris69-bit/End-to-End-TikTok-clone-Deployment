@@ -2,7 +2,7 @@
 
 This repository hosts the implementation of a Full Stack TikTok clone which is built using Nuxt 3, Vue 3, Tailwind CSS, Laravel, Pinia, and Axios. The application handles video uploads, crop images using Vue Advanced Cropper / vue-advanced-cropper on the front end, and PHP / Laravel Intervention Image on the backend and deployed on AWS EKS. The project covers a wide range of tools and practices for a robust and scalable DevOps setup.
 
-## [Table of Contents]
+## Table of Contents
 - [TikTok-clone](#TikTok-clone)
 - [Jenkins-Pipeline](#Jenkins-Pipeline)
 - [Terrform](#Terraform)
